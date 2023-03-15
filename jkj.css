@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    width: 368px;
+    height: 450px;
+    background-color:#faf4ef;
+    border-radius:0px 0px 0px 50px;
+    margin-top: 110px;
+
+}
+
+.text1{
+    font-size:34px;
+    font-weight: 300px;
+    margin-right:100px;
+    padding-top:60px;
+    color: #4b4b4b;
+}
+
+.teqsti2{
+    margin-right:220px;
+    font-size:27px;
+    color:#737373;
+    font-weight: bold;
+    margin-top:20px;
+}
+
+.picture{
+    margin-top:45px;
+    width: 220px;
+    height: 260px;
+    
+}
+
